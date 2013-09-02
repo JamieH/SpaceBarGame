@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSpacebarGame", "TheSpacebarGame\TheSpacebarGame.csproj", "{B254E80B-BE15-4CF9-B12B-D6785389501C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "Server\GameServer\GameServer.csproj", "{27E010EF-E204-4053-82CF-D70A886C46C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B254E80B-BE15-4CF9-B12B-D6785389501C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B254E80B-BE15-4CF9-B12B-D6785389501C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B254E80B-BE15-4CF9-B12B-D6785389501C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B254E80B-BE15-4CF9-B12B-D6785389501C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E010EF-E204-4053-82CF-D70A886C46C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E010EF-E204-4053-82CF-D70A886C46C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E010EF-E204-4053-82CF-D70A886C46C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E010EF-E204-4053-82CF-D70A886C46C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
